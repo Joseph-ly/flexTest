@@ -16,7 +16,7 @@
     border: 1px solid #a9a9a9;
 
     width: 1000px;
-    height: 400px;
+    height: 300px;
     /*padding: 10px 0px;*/
 }
 .contentItem {
@@ -48,4 +48,8 @@ fieldset {
     border: 1px solid #a9a9a9;
     background: #cdcdcd;
     margin-top: 50px;
+    width: 80%;
+}
+.desSection {
+    width: 80%;
 }
