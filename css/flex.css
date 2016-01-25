@@ -53,3 +53,6 @@ fieldset {
 .desSection {
     width: 80%;
 }
+.desSection > ul {
+    list-style: none;
+}
